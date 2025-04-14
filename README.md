@@ -39,7 +39,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 
    ```sh
    npm install -g gatsby-cli
-   ```
+   ``````
 
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
